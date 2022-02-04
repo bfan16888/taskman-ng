@@ -17,8 +17,6 @@ namespace WebAPI
 {
     public class Startup
     {
-        /* Test on 20220204 */
-        /* Chnages made on branch jira-199 */
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
